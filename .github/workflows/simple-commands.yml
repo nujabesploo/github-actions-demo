@@ -8,7 +8,7 @@ jobs:
       - name: Echo Hello
         run: echo "Hello, World!"
 
-      - name: Show Date
+      - name: Show date
         run: date
 
       - name: List Files
